@@ -1,4 +1,5 @@
-Date : 2026_May_23 
+'''Date : 2026_May_23 
  VS Code installed on Kali 
  Github, Git, and setup verified for Python 
  Installed extentions required
+'''
